@@ -22,7 +22,6 @@
 	  "lvl6": "article h6",
 	  "text": "article p, article li, article td:last-child"
 	},
-	"selectors_exclude": [".theme-doc-sidebar-menu menu__list", ".table-of-contents", "a.md-nav__link"],
 	"strip_chars": " .,;:#",
 	"custom_settings": {
 	  "separatorsToIndex": "_",
