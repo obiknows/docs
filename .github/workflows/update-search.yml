@@ -1,5 +1,5 @@
 ---
-name: Update the docs search index
+name: Update the search index
 
 on:
   workflow_dispatch:
